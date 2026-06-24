@@ -92,18 +92,7 @@ An AI-powered interview simulation system that generates dynamic role-specific q
  
 `Python` `Gemini API` `Prompt Engineering` `Streamlit`
  
----
- 
-## 📊 GitHub Stats
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadfaseehkhattak&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadfaseehkhattak&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfaseehkhattak&theme=tokyonight&hide_border=true" width="65%" />
-</div>
----
+
  
 ## 💼 Professional Experience
  
