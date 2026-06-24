@@ -25,7 +25,7 @@ My work sits at the intersection of **computer vision**, **large language models
 - 🤖 Focus: Computer Vision · LLM APIs · Full-Stack AI Development
 - 🧰 Stack: PyTorch · YOLOv8 · Gemini API · FastAPI · React
 - 💼 Former Software Engineering Intern @ Fauji Fertilizer Company
-- 🌍 Multan, Pakistan 🇵🇰 — Open to Remote Internships Worldwide ✅
+- 🌍 Multan, Pakistan 🇵🇰 — Open to Remote Roles Worldwide ✅
 - 📩 muhammadfaseehkhattak@gmail.com
  ---
  
@@ -53,7 +53,6 @@ My work sits at the intersection of **computer vision**, **large language models
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  
 ---
  
@@ -62,7 +61,7 @@ My work sits at the intersection of **computer vision**, **large language models
 ### 🏥 DENTIVISE — AI Clinical Diagnostic Platform
 > *The flagship project. Built entirely independently.*
  
-A production-ready full-stack AI system for automated dental radiograph analysis. Trained a custom **YOLOv8 object detection model in PyTorch** on 1,400+ annotated dental X-ray images across 9 diagnostic classes. Integrated **Google Gemini multimodal API** for real-time clinical report generation from raw detection outputs. Engineered a scalable **FastAPI** backend for AI inference orchestration and built the complete clinician-facing interface in **React + Tailwind CSS**.
+A production-ready full-stack AI system for automated dental radiograph analysis. Trained a custom **YOLOv11 object detection model in PyTorch** on 1,400+ annotated dental X-ray images across 9 diagnostic classes. Integrated **Google Gemini multimodal API** for real-time clinical report generation from raw detection outputs. Engineered a scalable **FastAPI** backend for AI inference orchestration and built the complete clinician-facing interface in **React + Tailwind CSS**.
  
 `PyTorch` `YOLOv8` `Gemini API` `FastAPI` `React` `Tailwind CSS` `Python`
  
