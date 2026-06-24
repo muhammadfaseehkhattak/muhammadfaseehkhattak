@@ -23,7 +23,7 @@ My work sits at the intersection of **computer vision**, **large language models
 
 - 🎓 BS Software Engineering — MUST, Multan (2023–2027)
 - 🤖 Focus: Computer Vision · LLM APIs · Full-Stack AI Development
-- 🧰 Stack: PyTorch · YOLOv8 · Gemini API · FastAPI · React
+- 🧰 Stack: PyTorch · YOLOv11 · Gemini API · FastAPI · React
 - 💼 Former Software Engineering Intern @ Fauji Fertilizer Company
 - 🌍 Multan, Pakistan 🇵🇰 — Open to Remote Roles Worldwide ✅
 - 📩 muhammadfaseehkhattak@gmail.com
