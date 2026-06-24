@@ -7,33 +7,27 @@
   <a href="https://linkedin.com/in/muhammad-faseeh-khattak">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:muhammadfaseehkhattak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=muhammadfaseehkhattak&color=3B82F6&style=for-the-badge&label=Profile+Views"/>
+<a href="mailto:muhammadfaseehkhattak@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+ 
 </p>
 </div>
 ---
  
 ## 👨‍💻 About Me
- 
+
 I'm a **Software Engineering student** at Multan University of Science & Technology, Pakistan, building real-world AI systems that solve meaningful problems — not just academic exercises.
- 
+
 My work sits at the intersection of **computer vision**, **large language models**, and **full-stack engineering**. I take projects from zero to production independently — model training, backend architecture, LLM integration, and frontend delivery.
- 
-```python
-faseeh = {
-    "education"  : "BS Software Engineering — MUST, Multan (2023–2027)",
-    "focus"      : ["Computer Vision", "LLM APIs", "Full-Stack AI"],
-    "stack"      : ["PyTorch", "YOLOv8", "Gemini API", "FastAPI", "React"],
-    "experience" : "Software Engineering Intern @ Fauji Fertilizer Company",
-    "location"   : "Multan, Pakistan 🇵🇰",
-    "available"  : "Remote Internships Worldwide ✅",
-    "contact"    : "muhammadfaseehkhattak@gmail.com"
-}
-```
- 
----
+
+- 🎓 BS Software Engineering — MUST, Multan (2023–2027)
+- 🤖 Focus: Computer Vision · LLM APIs · Full-Stack AI Development
+- 🧰 Stack: PyTorch · YOLOv8 · Gemini API · FastAPI · React
+- 💼 Former Software Engineering Intern @ Fauji Fertilizer Company
+- 🌍 Multan, Pakistan 🇵🇰 — Open to Remote Internships Worldwide ✅
+- 📩 muhammadfaseehkhattak@gmail.com
+ ---
  
 ## 🛠️ Tech Stack
  
