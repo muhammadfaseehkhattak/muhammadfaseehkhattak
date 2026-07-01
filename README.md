@@ -107,7 +107,7 @@ An AI-powered interview simulation system that generates dynamic role-specific q
 ## 🎓 Certifications
  
 - 📊 **Introduction to Data Science** — LUMS ILMx
-- 🤖 **Introduction to AI **  — Google AI Essentials (Coursera)
+- 🤖 Introduction to AI — Google AI Essentials (Coursera)
 - 🤖 **AI in Python** — DigiSkills *(In Progress)*
 ---
  
